@@ -2,7 +2,7 @@
 
 namespace ODCExternalLogic;
 
-public class Actions : IActions
+public class ODCExternalLogic : IODCExternalLogic
 {
     public string Echo(string message)
     {

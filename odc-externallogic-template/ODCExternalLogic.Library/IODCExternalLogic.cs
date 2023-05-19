@@ -4,7 +4,7 @@ namespace ODCExternalLogic
 {
     [OSInterface(
         Description = "Sample template action")]
-    public interface IActions
+    public interface IODCExternalLogic
     {
         /// <summary>
         /// Sample ODC server action

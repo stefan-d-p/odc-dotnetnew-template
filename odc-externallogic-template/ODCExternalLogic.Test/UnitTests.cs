@@ -3,7 +3,7 @@ namespace ODCExternalLogic.Test;
 public class Tests
 {
 
-    private static readonly IActions _actions = new Actions();
+    private static readonly IODCExternalLogic _actions = new ODCExternalLogic();
 
     [SetUp]
     public void Setup()
