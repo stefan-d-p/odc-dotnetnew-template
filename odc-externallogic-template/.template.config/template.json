@@ -1,0 +1,15 @@
+{
+  "$schema": "http://json.schemastore.org/template",
+  "author": "Stefan Weber",
+  "classifications": ["ODC"],
+  "name": "ODC External Logic Library",
+  "identity": "ODC.ExternalLogic.Library.CSharp",
+  "groupIdentity": "ODC.ExternalLogic.Library",
+  "shortName": "odc",
+  "tags": {
+    "language": "C#",
+    "type": "project"
+  },
+  "sourceName": "ODCExternalLogic",
+  "preferNameDirectory": true
+}
