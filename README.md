@@ -26,4 +26,8 @@ This creates a new folder _YourSolutionName_ containing a solution with two proj
 - The library project
 - A NUnit testproject
 
-with a sample action **Echo**
+with a sample action **Echo** and a corresponding test.
+
+See _Extend your apps with external logic_ in the OutSystems ODC Documentation on how to pack and upload your external logic library -> [OutSystems Documentation]
+
+[OutSystems Documentation]: https://success.outsystems.com/documentation/outsystems_developer_cloud/building_apps/extend_your_apps_with_external_logic/
